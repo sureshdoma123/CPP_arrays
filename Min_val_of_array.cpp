@@ -1,3 +1,4 @@
+//To calculate the minimum value of the array
 #include<bits/stdc++.h>
 using namespace std;
 int main()
