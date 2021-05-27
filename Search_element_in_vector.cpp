@@ -1,3 +1,4 @@
+//To search an element in Vector...
 #include<bits/stdc++.h>
 using namespace std;
 main()
